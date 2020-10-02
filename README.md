@@ -1,24 +1,16 @@
-# NLW_wallpapers
-Plataforma de Estudo - Proffys desenvolvido no evento da rocketseat next level week 02
-
-**INCIAR O SERVIDOR NODEJS NO TERMINAL**
-
-NPM rum dev
-
-
-
-
-
 **README.MD**
 
 
 
-NLW1.0: Aplicação para pessoas que querem ajudar a encontrar pontos de coleta para reciclagem
+NLW_2.0: Aplicação para pessoas que querem Estudar em uma plaforma Online
 
 
-# NLW-Ecoleta
+# NLW_Proffys
+Plataforma de Estudo - Proffys desenvolvido no evento da rocketseat next level week 02
 
-Recicle! ajude o meio ambiente!
+
+# Proffys - Plataforma de Estudo Online
+
 Made by Rocketseat License
 
 
@@ -112,11 +104,11 @@ Executando a Aplicação:
 Faça um Fork desse repositório,
 Crie uma branch com a sua feature:
 
-git checkout -b my-feature
+$ git checkout -b my-feature
 
-Commit suas mudanças: git commit -m 'feat: My new feature'
+$ Commit suas mudanças: git commit -m 'feat: My new feature'
 
-Push a sua branch: git push origin my-feature
+$  a sua branch: git push origin my-feature
 
 🎓 **Quem ministrou?**
 
@@ -124,7 +116,7 @@ As aulas foram ministradas pelo mestre Mayk Brito - Instructor - Rocketseat nas 
 
 📝 **License**
 
-Esse projeto está sob a licença Apache2. Veja o arquivo LICENSE para mais detalhes.
+Esse projeto está sob a licença Made by Rocketseat - Veja o arquivo LICENSE para mais detalhes.
 
 Feito com 💜 by Rafael Rufino
 
