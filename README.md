@@ -4,4 +4,4 @@ Plataforma de Estudo - Proffys desenvolvido no evento da rocketseat next level w
 
 
 
-https://github.com/ivanfilho21/bonieky-live-javascript/raw/master/urna-eletronica/screenshot.jpg
+
