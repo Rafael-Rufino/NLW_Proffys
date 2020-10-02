@@ -2,7 +2,7 @@
 
 
 
-NLW_2.0: Aplicação para pessoas que querem Estudar em uma plaforma Online
+NLW_2.0: Aplicação para pessoas que querem Estudar em uma plataforma Online
 
 
 # NLW_Proffys
