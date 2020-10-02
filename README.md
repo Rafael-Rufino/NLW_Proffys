@@ -13,7 +13,7 @@ http://127.0.0.1:5500/
 
 550
 
-**SIGN FEITO NO FIGMA**
+**DESIGN CONTRUIDO NO FIGMA**
 
 https://www.figma.com/file/GHGS126t7WYjnPZdRKChJF/?viewer=1&node-id=
 
