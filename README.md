@@ -31,9 +31,9 @@ Como Contribuir
 🔖 **Sobre**
 	
 
-O Ecoleta é uma aplicação Web para ajudar pessoas a encontrarem pontos de coleta para reciclagem.
+O Proffys é uma aplicação Web para ajudar pessoas Ministrar e Estudar online numa Plataforma.
 
-Essa aplicação foi construída na trilha Booster da Next Level Week distribuída pela Rocketseat. A ideia de criar uma aplicação voltada ao meio ambiente surgiu da coincidência da data do curso e a data da semana do meio ambiente
+Essa aplicação foi construída na trilha Booster da Next Level Week distribuída pela Rocketseat. A ideia de criar uma aplicação voltada ao Estudo online.
 
   
 📚  **Documentação**
@@ -71,7 +71,7 @@ Por fim, é essencial ter o Expo instalado de forma global na máquina
 
 **Faça um clone :**
 
-  $ git clone https://github.com/Rafael-Rufino/NLW-Ecoleta-proxima-semana-01.git
+  $ git clone https://github.com/Rafael-Rufino/NLW_wallpapers.git
   
 Executando a Aplicação:
 
@@ -80,7 +80,9 @@ Executando a Aplicação:
 
   ## Crie o banco de dados
   $ cd server
+  
   $ npm run knex:migrate
+  
   $ npm run knex:seed
 
   # Inicie a API
@@ -88,6 +90,7 @@ Executando a Aplicação:
 
   # Inicie a aplicação web
   $ cd web
+  
   $ npm start
   
   # Acessar o Servidor no Navegador
