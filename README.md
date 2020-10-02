@@ -60,9 +60,7 @@ sqlite3
 O layout está disponível no Figma;
 Web 
 
-**ACESSE :**
-
-https://www.figma.com/file/GHGS126t7WYjnPZdRKChJF/?viewer=1&node-id=
+**ACESSE :** https://www.figma.com/file/GHGS126t7WYjnPZdRKChJF/?viewer=1&node-id=
 
 🔥  **Como Usar**
 
