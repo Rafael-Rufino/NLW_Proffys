@@ -1,2 +1,2 @@
 # NLW_wallpapers
-Plataforma de Estudo - Proffys desenvolvida no evento da rocketseat next level week 02
+Plataforma de Estudo - Proffys desenvolvido no evento da rocketseat next level week 02
