@@ -116,7 +116,7 @@ $ git checkout -b my-feature
 
   a sua branch: 
   
-  $ git push origin my-feature
+  $ git push origin master
 
 🎓 **Quem ministrou?**
 
