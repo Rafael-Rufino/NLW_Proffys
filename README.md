@@ -5,7 +5,7 @@ Plataforma de Estudo - Proffys desenvolvido no evento da rocketseat next level w
 
 NPM rum dev
 
-**HOSPEDAGEM DO CODIGO NA MAQUINA LOCAL**
+**ACESSAR O SERVIDOR NO NAVEGADOR**
 
 http://127.0.0.1:5500/
 
