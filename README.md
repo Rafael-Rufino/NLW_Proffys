@@ -65,7 +65,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 ## :heavy_check_mark: :computer: Video da Aplicação Web
 
 <h1 align="center">
-    <img alt="Web" src="./.github/Video.gif" width="900px">
+    <img alt="Web" src="./.github/video.gif" width="900px">
 </h1>
 
 
