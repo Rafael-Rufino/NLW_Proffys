@@ -57,10 +57,9 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 ## :heavy_check_mark: :computer: Resultado Web
 
 <h1 align="center">
-    <img alt="Web Home" src="./.github/home.png" width="300px">
-    <img alt="Web cadastro" src="./.github/cadastro.png" width="300px">
-    <img alt="Web page-estudante" src="./.github/page-estudante.png" width="300px">
-    <img alt="Web adicionarmateria" src="./.github/adicionarMateria.png" width="300px">
+    <img alt="Web Home" src="./.github/index.png" width="600px">
+    <img alt="Pessoa cadastrada" src="./.github/pessoa.png" width="600px">
+
 </h1>
 
 ## :heavy_check_mark: :computer: Video da Aplicação Web
@@ -109,7 +108,7 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 
   # Inicie a aplicação web
   $ cd NLW_Proffys/src
-  $ npm start
+  $ npm run dev
 
 
   
