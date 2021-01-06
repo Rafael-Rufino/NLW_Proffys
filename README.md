@@ -1,97 +1,117 @@
-**README.MD**
+<h3 align="center">
+    <img alt="Logo" title="#logo" width="300px" src="./.github/logo.svg">
+    <br><br>
+    <b>Plataforma Desenvolvida para auxiliar professores e alunos!</b>  
+    <br>
+</h3>
 
 
-
-NLW_2.0: Aplicação para pessoas que querem Estudar em uma plataforma Online
 
 
 # NLW_Proffys
 Plataforma de Estudo - Proffys desenvolvido no evento da rocketseat next level week 02
 
 
-# Proffys - Plataforma de Estudo Online
 
-Made by Rocketseat License
+# Índice
 
+- [Sobre](#sobre)
+- [Documentação](#documentacao)
+- [Tecnologias Utilizadas](#tecnologias-utilizadas)
+- [Como Usar](#como-usar)
+- [Como Contribuir](#como-contribuir)
 
-
-
-## Ìndice  
-
-Sobre
-
-Documentação
-
-Tecnologias Utilizadas
-
-Como Usar
-
-Como Contribuir
-
-🔖 **Sobre**
-	
-
-O Proffys é uma aplicação Web para ajudar pessoas Ministrar e Estudar online numa Plataforma.
-
-Essa aplicação foi construída na trilha Booster da Next Level Week distribuída pela Rocketseat. A ideia de criar uma aplicação voltada ao Estudo online.
-
-  
-📚  **Documentação**
-
-Para reforçar alguns conceitos e registrar comandos que são dificeis de se lembrar eu fiz uma pequena DOCUMENTAÇÃO para ajudar quem esta iniciando com  Node.
+<a id="sobre"></a>
 
 
-🚀  **Tecnologia Utilizadas**
+## :bookmark: Sobre
+
+O <strong>Proffys</strong> é uma aplicação Web voltada para ajudar pessoas a Estudar e Ministrar aulas em uma PLataforma online.
+
+Essa aplicação foi construída na trilha <strong>Booster da Next Level Week</strong> distribuída pela Rocketseat. A ideia de criar uma aplicação voltada ao Estudo online.
+
+<a id="documentacao"></a>
+
+## :books: Documentação
+
+
+Para reforçar alguns conceitos e registrar comandos que são dificeis de se lembrar eu fiz uma pequena **[DOCUMENTAÇÃO](DOCUMENTATION.md)** para ajudar quem esta iniciando com  **Node** e  **Sqlite**.
+
+
+<a id="tecnologias-utilizadas"></a>
+
+## :rocket: Tecnologias Utilizadas
 
 O projeto foi desenvolvido utilizando as seguintes tecnologias
 
-html
+- [Html](https://developer.mozilla.org/pt-BR/docs/Aprender/HTML/Introducao_ao_HTML)
+- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+- [Node.js](https://nodejs.org/en/)
+- [Sqlite](https://sqlite.org/docs.html)
 
-css
+## :heavy_check_mark: :computer: Prototipo da Aplicação
 
-JavaScript
+- o layout está disponível no **[Figma](https://www.figma.com/file/GHGS126t7WYjnPZdRKChJF/?viewer=1&node-id=)**;
 
-Node.js
 
-sqlite3
+## :heavy_check_mark: :computer: Resultado Web
 
-✔️ 💻  **Resultado Web**
+<h1 align="center">
+    <img alt="Web Home" src="./.github/home.png" width="300px">
+    <img alt="Web cadastro" src="./.github/cadastro.png" width="300px">
+    <img alt="Web page-estudante" src="./.github/page-estudante.png" width="300px">
+    <img alt="Web adicionarmateria" src="./.github/adicionarMateria.png" width="300px">
+</h1>
 
-O layout está disponível no Figma;
-Web 
+## :heavy_check_mark: :computer: Video da Aplicação Web
 
-**ACESSE :** https://www.figma.com/file/GHGS126t7WYjnPZdRKChJF/?viewer=1&node-id=
+<h1 align="center">
+    <img alt="Web" src="./.github/Video.gif" width="900px">
+</h1>
 
-🔥  **Como Usar**
 
-Pré-requisitos
-É necessário possuir o Node.js instalado na máquina
-Também, é preciso ter um gerenciador de pacotes seja o NPM ou Yarn.
-Por fim, é essencial ter o Expo instalado de forma global na máquina
+
+<a id="como-usar"></a>
+
+## :fire: Como usar
+
+- ### **Pré-requisitos**
+
+  - É **necessário** possuir o **[Node.js](https://nodejs.org/en/)** instalado na máquina
+  - Também, é **preciso** ter um gerenciador de pacotes seja o **[NPM](https://www.npmjs.com/)** ou **[Yarn](https://yarnpkg.com/)**.
+  - Por fim, é **essencial** ter o **[Expo](https://expo.io/)** 
+  instalado de forma global na máquina.
+
+
 
 **Faça um clone :**
 
   $ git clone https://github.com/Rafael-Rufino/NLW_wallpapers.git
   
-Executando a Aplicação:
 
+1. Faça um clone :
+
+```sh
+  $ git clone https://github.com/Rafael-Rufino/SDIE---Projeto-tcc-ifrn-ead.git
+```
+
+2. Executando a Aplicação:
+
+```sh
   # Instale as dependências
-  $ npm install
+  $ npm install 
 
   ## Crie o banco de dados
   $ cd server
-  
   $ npm run knex:migrate
-  
   $ npm run knex:seed
 
-  # Inicie a API
-  $ npm run dev
 
   # Inicie a aplicação web
-  $ cd web
-  
+  $ cd NLW_Proffys/src
   $ npm start
+
+
   
   # Acessar o Servidor no Navegador
   $ http://127.0.0.1:5500/
@@ -101,21 +121,17 @@ Executando a Aplicação:
 
 
 
-
-♻️  **Como contribuir**
-
-Faça um Fork desse repositório,
-Crie uma branch com a sua feature:
-
-$ git checkout -b my-feature
-
- Commit suas mudanças:
- 
- $ git commit -m 'feat: My new feature'
-
-  a sua branch: 
+```
   
-  $ git push origin master
+
+
+## :recycle: Como contribuir
+
+- Faça um Fork desse repositório,
+- Crie uma branch com a sua feature: `git checkout -b my-feature`
+- Commit suas mudanças: `git commit -m 'feat: My new feature'`
+- Push a sua branch: `git push origin my-feature`
+
 
 🎓 **Quem ministrou?**
 
@@ -123,10 +139,14 @@ As aulas foram ministradas pelo mestre Mayk Brito - Instructor - Rocketseat nas 
 
 📝 **License**
 
-Esse projeto está sob a licença Made by Rocketseat - Veja o arquivo LICENSE para mais detalhes.
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
 
-Feito com 💜 by Rafael Rufino
+
+
+<h4 align="center">
+    Feito com 💜 by <a href="https://www.linkedin.com/in/rafael-r-dos-santos-b889311ba/" target="_blank">Rafael Rufino</a>
+</h4>
 
 
 
