@@ -7,8 +7,7 @@
 
 
 
-
-# Índice
+s
 
 - [Sobre](#sobre)
 - [Documentação](#documentacao)
@@ -78,15 +77,10 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 
 
 
-**Faça um clone :**
-
-  $ git clone https://github.com/Rafael-Rufino/NLW_wallpapers.git
-  
-
 1. Faça um clone :
 
 ```sh
-  $ git clone https://github.com/Rafael-Rufino/SDIE---Projeto-tcc-ifrn-ead.git
+  git clone https://github.com/Rafael-Rufino/NLW_Proffys.git
 ```
 
 2. Executando a Aplicação:
